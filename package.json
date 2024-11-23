@@ -33,7 +33,7 @@
     "@fullcalendar/resource-timeline": "^5.11.3",
     "@wordpress/scripts": "^24.1.0",
     "fullcalendar": "^5.11.3",
-    "fullcalendar-scheduler": "^5.11.3",
+    "fullcalendar-scheduler": "^5.11.5",
     "php-loader": "^0.2.0"
   }
 }
